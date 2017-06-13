@@ -16,6 +16,9 @@
     <Filter Include="Header Files\traits">
       <UniqueIdentifier>{81c95f33-0ac2-474a-8658-6a5ddf85e070}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\inherit">
+      <UniqueIdentifier>{b65f1480-e975-431d-a7b7-4310bdba4ec3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="typeop1.hpp">
@@ -47,6 +50,12 @@
     </ClInclude>
     <ClInclude Include="csm1.hpp">
       <Filter>Header Files\traits</Filter>
+    </ClInclude>
+    <ClInclude Include="objectcounter.hpp">
+      <Filter>Header Files\inherit</Filter>
+    </ClInclude>
+    <ClInclude Include="basememberpair.hpp">
+      <Filter>Header Files\inherit</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

@@ -1,3 +1,7 @@
 Debug/
 *.tlog
-.db
+*.db
+*.ipch
+*.opendb
+*.db-shm
+*.db-wal

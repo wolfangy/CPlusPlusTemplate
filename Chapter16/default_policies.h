@@ -3,7 +3,7 @@
 
 class DefaultPolicy1 {
 public:
-	static void Listen()
+	static void listen()
 	{
 		std::cout << "I'am listening" << std::endl;
 	}
