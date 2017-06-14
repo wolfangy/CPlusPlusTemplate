@@ -19,6 +19,9 @@
     <Filter Include="Header Files\inherit">
       <UniqueIdentifier>{b65f1480-e975-431d-a7b7-4310bdba4ec3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\meta">
+      <UniqueIdentifier>{9b60c07d-4892-40f2-9f8a-5dfa76fbaffd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="typeop1.hpp">
@@ -56,6 +59,24 @@
     </ClInclude>
     <ClInclude Include="basememberpair.hpp">
       <Filter>Header Files\inherit</Filter>
+    </ClInclude>
+    <ClInclude Include="pow3.hpp">
+      <Filter>Header Files\meta</Filter>
+    </ClInclude>
+    <ClInclude Include="sqrt.hpp">
+      <Filter>Header Files\meta</Filter>
+    </ClInclude>
+    <ClInclude Include="sqrt2.hpp">
+      <Filter>Header Files\meta</Filter>
+    </ClInclude>
+    <ClInclude Include="sqrt3.hpp">
+      <Filter>Header Files\meta</Filter>
+    </ClInclude>
+    <ClInclude Include="sqrt4.hpp">
+      <Filter>Header Files\meta</Filter>
+    </ClInclude>
+    <ClInclude Include="loop2.hpp">
+      <Filter>Header Files\meta</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
